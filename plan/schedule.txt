@@ -1,0 +1,6 @@
+Week 1. (26.03-2.04)	Produccion
+Week 2. (2.04 - 9.04)	Propagacion
+Week 3. (9.04 - 16.04)	Modelos triaxiales de densidad
+Week 4. (16.04 - 23.04)	Esqueleto que integra los tres modelos
+Week 5. (23.04 - 30.04)	Resultados
+Week 6. (30.04 - 7-05)  Escritura
