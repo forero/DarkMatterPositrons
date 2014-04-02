@@ -1,0 +1,5 @@
+Para el miercoles 9.
+
+1. Codigo que describa los flujos (Q) de positrones por SNR. (Alejandro)
+2. Codigo que describa los flujos (Q) de positrones por pulsares (Andres)
+3. Algoritmo que describa los flujos (Q) de positrones por DM_anihilation y DM_decay (Alejandro+Andres)
